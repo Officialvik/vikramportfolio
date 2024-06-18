@@ -16,7 +16,7 @@ const Sidenav = () => {
         <li className="sidenavLi">Chatting Applications</li>
         <li className="sidenavLi">Portfolio Websites</li>
         <li className="sidenavLi">Backend Setup</li>
-        <li className="sidenavLi">Amazon Clone</li>
+        {/* <li className="sidenavLi">Amazon Clone</li> */}
       </ul>
       <SidenavTitle title="L" subTitle="atest Posts" />
       <ul>
@@ -25,12 +25,12 @@ const Sidenav = () => {
         <li className="sidenavLi">
           Designers thoughts about mobile UI templates
         </li>
-        <li className="sidenavLi">Designer Conference at Florida, USA 2020</li>
+        {/* <li className="sidenavLi">Designer Conference at Florida, USA 2020</li> */}
       </ul>
       <SidenavTitle title="R" subTitle="each Me" />
       <ul>
-        <li className="sidenavLi">+968 24769821</li>
-        <li className="sidenavLi">noor.jsdivs@gmail.com</li>
+        <li className="sidenavLi">+91 9728040940</li>
+        <li className="sidenavLi">ranwa489@gmail.com</li>
       </ul>
     </div>
   );

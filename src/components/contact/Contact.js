@@ -73,13 +73,13 @@ const Contact = () => {
             <span className="bg-designColor text-gray-700 text-sm font-titleFont font-medium px-2 rounded-md flex items-center justify-center">
               Address:
             </span>
-            Muscat, Oman
+            Haryana
           </p>
           <p className="flex justify-between w-full text-lg text-[#ccc] py-4 border-b-[1px] border-b-zinc-800">
             <span className="bg-designColor text-gray-700 text-sm font-titleFont font-medium px-2 rounded-md flex items-center justify-center">
               Phone:
             </span>
-            +968 97859628
+            +91 9728040940
           </p>
         </div>
         <div className="w-full lgl:w-1/2">
@@ -87,7 +87,7 @@ const Contact = () => {
             <span className="bg-designColor text-gray-700 text-sm font-titleFont font-medium px-2 rounded-md flex items-center justify-center">
               Email:
             </span>
-            noor.jsdivs@gmail.com
+            ranwa489@gmail.com
           </p>
           <p className="flex justify-between w-full text-lg text-[#ccc] py-4 border-b-[1px] border-b-zinc-800">
             <span className="bg-designColor text-gray-700 text-sm font-titleFont font-medium px-2 rounded-md flex items-center justify-center">

@@ -18,11 +18,11 @@ const Projects = () => {
       <Title title="Recent" subTitle="Projects" />
       <div className="w-full grid grid-cols-1 md:grid-cols-2 gap-6 lgl:gap-10">
         <div className="px-6">
-          <ProjectsCard
+          {/* <ProjectsCard
             title="Blog Website"
             category="Website"
             image={workImgThree}
-          />
+          /> */}
           <ProjectsCard
             title="Business Card Design"
             category="Design"
